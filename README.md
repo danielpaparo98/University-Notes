@@ -25,3 +25,13 @@ you),
 one that Samuel Baron linked on LMS looked really good!),
 * Taken pseudo-code style notes on how to do each procedure when initially
 shown it.
+
+## CITS2002
+---------
+This unit was quite difficult... I enjoyed the content and felt like I understood it quite well - but only after reading extremely broadly
+outside the unit material and lectures.
+
+Had I been able to go back in time I would have:
+* Read more books on alogrithms and datastructures from the beginning
+
+Note that: These notes are very rushed! There will be mistakes and theyre not the highest quality!

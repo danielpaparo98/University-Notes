@@ -27,7 +27,7 @@ one that Samuel Baron linked on LMS looked really good!),
 shown it.
 
 ## CITS2002
----------
+
 This unit was quite difficult... I enjoyed the content and felt like I understood it quite well - but only after reading extremely broadly
 outside the unit material and lectures.
 

@@ -5,7 +5,8 @@ This is a collection of the notes which i have created throughout different
 units I have studied at UWA. These notes are all created by myself, however some
 may contain some images or text copied directly from lecture notes and or
 relevant texts. Feel free to use them but there may be gaps in content and
-potentially some wrong information!
+potentially some wrong information! Also note that I used some of these notes 
+as an oppertunity to learn markdown and Latex so there may be some formatting errors!
 
  
 
@@ -18,11 +19,9 @@ at least do the practice questions to do well in it.
 
 Had I been able to go back in time I would have:
 
-\* Attended all tutorials (easier to do the work with someone there to help
+* Attended all tutorials (easier to do the work with someone there to help
 you),
-
-\* Read some of the available textbooks on the relevant logic (the open source
+* Read some of the available textbooks on the relevant logic (the open source
 one that Samuel Baron linked on LMS looked really good!),
-
-\* Taken pseudo-code style notes on how to do each procedure when initially
+* Taken pseudo-code style notes on how to do each procedure when initially
 shown it.
